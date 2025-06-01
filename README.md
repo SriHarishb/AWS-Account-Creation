@@ -1,8 +1,7 @@
  # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
   ## AIM
        To Create an Account in AWS Set up a Root user and an IAM user.
-## PROBLEM STATEMENT
-    Explain about the Experiment.
+
 
 ## ALGORITHM
  ### Steps 1: Create an AWS Account
@@ -12,12 +11,11 @@
  ### Steps 5: Configure IAM User Login
  ### Steps 6:Set Permissions for IAM User
  ### Steps 7:Review and Create IAM User
-## COMMANDS
-Include the commands used in the Experiment.
+
 
 ## OUTPUT
-### REG NUMBER:212223110046
-### NAME:BLESSING SHAIK AZEEZ AHAMAD
+### REG NUMBER:212223220110
+### NAME:Sri Harish B
 ![Screenshot 2025-04-28 204107](https://github.com/user-attachments/assets/ff125748-c99d-41ad-8595-1fd792816d56)
 ![426860011-070c37e3-dc20-4056-80a8-a15933880198](https://github.com/user-attachments/assets/126bb1f9-30f3-40d1-b2a2-fc60d5e81789)
 
